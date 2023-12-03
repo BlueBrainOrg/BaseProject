@@ -1,3 +1,6 @@
+This is a simple godot 4 project template with some addons already included.
+The only modification made to a 
+
 # Godot Addons:
 - [AnimatedSprite to AnimationPlayer](https://github.com/poohcom1/godot-animated-sprite-2-player) by [poohcom1](https://github.com/poohcom1)
 - [Automatic Layer enums](https://github.com/awardell/AutomaticLayerEnums) by [awardell](https://github.com/awardell)

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="SceneLoaderConfig" load_steps=2 format=3 uid="uid://cda7trdsatfyb"]
 
-[ext_resource type="Script" path="res://game/globals/scene_loader_cfg.gd" id="1_v56nu"]
+[ext_resource type="Script" path="res://addon_extensions/SceneLoader/scene_loader_cfg.gd" id="1_v56nu"]
 
 [resource]
 script = ExtResource("1_v56nu")

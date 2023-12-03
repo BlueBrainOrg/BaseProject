@@ -29,7 +29,7 @@ config/icon="res://icon.svg"
 [autoload]
 
 ControllerIcons="*res://addons/controller_icons/ControllerIcons.gd"
-SceneLoader="*res://addons/scene_loader/autoloads/scene_loader.gd"
+SceneLoader="*res://addon_extensions/SceneLoader/SceneLoader2.gd"
 
 [editor_plugins]
 
