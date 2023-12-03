@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="SceneLoaderConfig" load_steps=2 format=3 uid="uid://cda7trdsatfyb"]
+
+[ext_resource type="Script" path="res://game/globals/scene_loader_cfg.gd" id="1_v56nu"]
+
+[resource]
+script = ExtResource("1_v56nu")
+scenes = {
+"main_menu": "res://game/ui/main_menu/MainMenu.tscn",
+"scene1": "res://game/world/scene1/Scene1.tscn",
+"scene2": "res://game/world/scene2/Scene2.tscn"
+}
+loading_screen = "res://game/ui/loading_screen/LoadingScreen.tscn"
+path_to_progress_bar = "Container/ProgressBar"
