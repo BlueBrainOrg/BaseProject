@@ -33,7 +33,7 @@ SceneLoader="*res://addon_extensions/SceneLoader/SceneLoader2.gd"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/AS2P/plugin.cfg", "res://addons/automatic_layer_enums/plugin.cfg", "res://addons/controller_icons/plugin.cfg", "res://addons/dictionary_inspector/plugin.cfg", "res://addons/godot-flexbox/plugin.cfg", "res://addons/godot-idea-board/plugin.cfg", "res://addons/resources_spreadsheet_view/plugin.cfg", "res://addons/scene_loader/plugin.cfg")
+enabled=PackedStringArray("res://addons/AS2P/plugin.cfg", "res://addons/automatic_layer_enums/plugin.cfg", "res://addons/controller_icons/plugin.cfg", "res://addons/dictionary_inspector/plugin.cfg", "res://addons/godot-flexbox/plugin.cfg", "res://addons/godot-idea-board/plugin.cfg", "res://addons/resources_spreadsheet_view/plugin.cfg")
 
 [godot_idea_board]
 
