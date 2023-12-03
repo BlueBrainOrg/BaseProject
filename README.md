@@ -1,7 +1,8 @@
 This is a simple godot 4 project template with some addons already included.
-The only modification made to a 
 
-# Godot Addons:
+The project is not directly using SceneLoader, instead it autoloads a subclass defined in `addon_extensions/SceneLoader`
+
+# Godot Addons included:
 - [AnimatedSprite to AnimationPlayer](https://github.com/poohcom1/godot-animated-sprite-2-player) by [poohcom1](https://github.com/poohcom1)
 - [Automatic Layer enums](https://github.com/awardell/AutomaticLayerEnums) by [awardell](https://github.com/awardell)
 - [Controller Icons](https://github.com/rsubtil/controller_icons/) by [Ricardo Subtil](https://github.com/rsubtil)
